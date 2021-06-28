@@ -1,0 +1,25 @@
+body{
+    background: url(https://images.unsplash.com/photo-1584982751601-97dcc096659c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+form{
+    margin-top: 200px;
+    float: right;
+}
+
+input{
+    margin-bottom: 19px;
+}
+
+button{
+    margin-left: 125px;
+    width: 100px;
+}
+
+.login{
+    margin-right: 0;
+    float: right;
+}
